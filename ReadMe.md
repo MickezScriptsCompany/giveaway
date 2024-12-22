@@ -124,9 +124,6 @@
 [Project X]("https://discord.gg/rE9EXurcaZ) - Prizes: 5
  - 5x Scripts of choice (value: ~$30)
 
-[Zerio]("https://discord.gg/xQ4fBv5s2f) - Prizes: 5
- - 5x €10 Gift Card (value: ~$10)
-
 [QF Developers]("https://discord.gg/qfdevelopers) - Prizes: 5
  - 1x MDT LSPD (value: ~$27)
  - 1x MDT EMS (value: ~$27)
@@ -286,11 +283,18 @@
 [Brandstation Developments]("https://discord.gg/qvKmBJsTDa) - Prizes: 3
  - 3x Scripts Of Choice (value: ~$55)
 
-[Devaway]("https://discord.gg/3wvbQfvrZ4) - Prizes: 20
+[Emfan Scripts]("https://discord.gg/WycSqcDUt3) - Prizes: 20
+ - 5x emfan-vehiclekeys (value: ~$12)
+ - 5x emfan-gym (value: ~$14)
+ - 5x emfan-2step (value: ~$10)
+ - 5x emfan-fakeplate (value: ~$11)
+
+[Devaway]("https://discord.gg/3wvbQfvrZ4) - Prizes: 25
  - 5x NPC Food Orders (value: ~$11.99)
  - 5x Hostage/Store Robbery script (value: ~$11.99)
  - 5x Trucking Simulator (value: ~$11.99)
  - 5x Postal Delivery Job (value: ~$11.99)
+ - 5x Forum Bump Incentives (expansion soon!) (value: ~$4.99)
 
 [Wix Development]("https://discord.gg/FNe5q8b394) - Prizes: 3
  - 3x Realistic Weapns (value: ~$5)
