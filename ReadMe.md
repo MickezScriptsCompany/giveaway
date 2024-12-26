@@ -124,6 +124,12 @@
 [Project X]("https://discord.gg/rE9EXurcaZ) - Prizes: 5
  - 5x Scripts of choice (value: ~$30)
 
+[SkapScripts]("https://discord.gg/D5SdAdP6zC) - Prizes: 9
+ - 2x SkapScavenger (value: ~$31)
+ - 3x SkapMailBox (value: ~$10)
+ - 2x 50% off of my services (value: ~$10)
+ - 2x SkapJobs (value: ~$10)
+
 [QF Developers]("https://discord.gg/qfdevelopers) - Prizes: 5
  - 1x MDT LSPD (value: ~$27)
  - 1x MDT EMS (value: ~$27)
