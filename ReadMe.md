@@ -220,7 +220,7 @@
 [Haaasib]("https://discord.gg/9m2KTFskjx) - Prizes: 5
  - 5x Script of choice (value: ~$140)
 
-[Yoda Things]("https://discord.gg/undefined) - Prizes: 15
+[Yoda Things]("https://discord.gg/kSuS8WtMhv) - Prizes: 15
  - 5x Garbage Job (value: ~$50)
  - 5x Reputation Job (value: ~$60)
  - 5x Script Of Choice (value: ~$70)
@@ -256,7 +256,7 @@
 [MRC Scripts]("https://discord.gg/2GJuasYVf4) - Prizes: 3
  - 3x Firefighter & Backpacks (value: ~$40)
 
-[Argonix.eu]("https://discord.gg/undefined) - Prizes: 20
+[Argonix.eu]("https://discord.gg/4Dg9Hw6HkS) - Prizes: 20
  - 10x 10% Coupon Code (Up To $200 Purchase) (value: ~$20)
  - 10x 20% Coupon Code (Up To $100 Purchase) (value: ~$20)
 
