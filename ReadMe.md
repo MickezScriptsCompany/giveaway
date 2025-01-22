@@ -86,7 +86,7 @@
  - 2x pengu_antilag (value: ~$12.5)
  - 3x pengu_hitmarker (value: ~$6.25)
 
-[Yoda Things]("https://discord.gg/undefined) - Prizes: 15
+[Yoda Things]("https://discord.gg/kSuS8WtMhv) - Prizes: 15
  - 5x Garbage Job (value: ~$50)
  - 5x Reputation Job (value: ~$60)
  - 5x Script Of Choice (value: ~$70)
@@ -102,13 +102,13 @@
 [gpScripts]("https://discord.gg/zRg8HdSH5W) - Prizes: 3
  - 3x Script of Choice (No Open Source) (value: ~$30)
 
-[Argonix.eu]("https://discord.gg/undefined) - Prizes: 5
+[Argonix.eu]("https://discord.gg/4Dg9Hw6HkS) - Prizes: 5
  - 5x FiveM Normal Package 14d (server) (value: ~$5)
 
 [Wix Development]("https://discord.gg/uxkQZtTzzr) - Prizes: 3
  - 3x Wix Realistic Weapons (value: ~$5)
 
-[InfinityPulse]("https://discord.gg/undefined) - Prizes: 5
+[InfinityPulse]("https://discord.gg/dAEyyAXz7K) - Prizes: 5
  - 5x Script Of Choice (value: ~$10)
 
 [Doaheris Map Design]("https://discord.gg/BPpmtA7GRM) - Prizes: 7
