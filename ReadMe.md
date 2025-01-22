@@ -12,7 +12,7 @@
  - 5x Sleek Clothes (value: ~$25)
  - 5x Lottery System (value: ~$25)
 
-[Enviscripts]("https://discord.gg/enviscripts) - Prizes: 5
+[Enviscripts]("https://discord.gg/envi-scripts) - Prizes: 5
  - 5x Gift Card (value: ~$25)
 
 [BIT]("https://discord.gg/qApkS3ypxs) - Prizes: 5
