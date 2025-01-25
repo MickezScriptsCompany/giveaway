@@ -1,5 +1,10 @@
-# New Years Giveaway 
-### FiveM Giveaways x qbcore
+# QBCore's First Giveaway of 2025!
+### QBCore x 5mgiveaways
+
+[okok Scripts]("https://discord.gg/okok) - Prizes: 5
+ - 2x okokMechanicJob (value: ~$40)
+ - 2x okokPoliceJob (value: ~$35)
+ - 1x okokPhone (value: ~$50)
 
 [Killstore]("https://discord.gg/killstore) - Prizes: 4
  - 1x Click To Use Full Package (value: ~$402)
